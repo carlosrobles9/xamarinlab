@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Navegacion.Page2">
+    
+    <Label Text="50 shades of grey"/>
+    <Label Text="Cincuenta sombras de Grey es una novela erótica de la autora británica E. L. James del año 2011. Narrada en gran medida en Seattle, es la primera entrega de una trilogía que describe la relación entre una recién graduada de la universidad, Anastasia Steele, y el joven magnate de negocios Christian Grey"/>
+    
+
+
+</ContentPage>
